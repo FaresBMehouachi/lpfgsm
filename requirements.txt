@@ -1,0 +1,14 @@
+# Minimal requirements - choose ONE framework
+
+# Option 1: PyTorch only
+torch>=1.12.0
+torchvision>=0.13.0
+
+# Option 2: TensorFlow only  
+# tensorflow>=2.8.0
+
+# Essential packages
+numpy>=1.21.0
+matplotlib>=3.5.0
+jupyter>=1.0.0
+tqdm>=4.62.0
