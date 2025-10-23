@@ -43,7 +43,8 @@ When gradients concentrate (low PR₁), we adaptively reduce $p$ to maintain ali
 
 ### Option 1: Google Colab (Recommended)
 
-[![Open In Colab](lpfgsm_demo_tf.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/)
+
 
 ### Option 2: Local Setup
 
