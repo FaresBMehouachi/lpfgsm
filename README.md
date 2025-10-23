@@ -41,23 +41,21 @@ When gradients concentrate (low PR₁), we adaptively reduce $p$ to maintain ali
 
 ## 🚀 Quick Start
 
-### Option 1: Google Colab (Recommended)
+### Option 1: Google Colab (Recommended for quick start)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/)
-
+**[📓 Interactive Demo Notebook](lp_FGSM_demo_tf.ipynb)** - Open this notebook and click the Colab badge at the top to run it in Google Colab.
 
 ### Option 2: Local Setup
-
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/lp-fgsm.git
-cd lp-fgsm
+git clone https://github.com/FaresBMehouachi/lpfgsm.git
+cd lpfgsm
 
 # Install dependencies
 pip install -r requirements.txt
 
 # Launch the notebook
-jupyter notebook lpfgsm_demo.ipynb
+jupyter notebook lpFGSM_demo_tf.ipynb
 ```
 
 ### Basic Usage
