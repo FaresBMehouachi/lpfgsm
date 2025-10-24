@@ -1,4 +1,4 @@
-# 🛡️ $l^p$-FGSM: Adaptive Norm Selection for Preventing Catastrophic Overfitting
+# 🛡️ $l^p$-FGSM: Adaptive Norm Selection for Preventing Catastrophic Overfitting in Fast Adversarial Training
 
 [![arXiv](https://img.shields.io/badge/arXiv-2505.02360-b31b1b.svg)](https://arxiv.org/abs/2505.02360)
 [![NeurIPS Workshop 2025](https://img.shields.io/badge/NeurIPS%20Workshop-2025-blue.svg)]([https://neurips.cc/](https://openreview.net/forum?id=isvrCnlBZb#discussion))
