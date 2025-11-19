@@ -1,13 +1,13 @@
 # 🛡️ $l^p$-FGSM: Adaptive Norm Selection for Preventing Catastrophic Overfitting in Fast Adversarial Training
 
 [![arXiv](https://img.shields.io/badge/arXiv-2505.02360-b31b1b.svg)](https://arxiv.org/abs/2505.02360)
-[![NeurIPS Workshop 2025](https://img.shields.io/badge/NeurIPS%20Workshop-2025-blue.svg)](https://openreview.net/forum?id=isvrCnlBZb#discussion)
+[![NeurIPS Workshop 2025](https://img.shields.io/badge/NeurIPS%20Workshop-2025-blue.svg)](https://neurips.cc/virtual/2025/125163)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-1.12+-ee4c2c.svg)](https://pytorch.org/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.8+-ff6f00.svg)](https://tensorflow.org/)
 
-**[Paper](https://openreview.net/pdf?id=isvrCnlBZb) | [Poster](https://neurips.cc/virtual/2025/125163) | [Slides](https://neurips.cc/virtual/2025/125163)**
+**[Paper](https://openreview.net/pdf?id=isvrCnlBZb) | [Poster](https://neurips.cc/media/PosterPDFs/NeurIPS%202025/125163.png?t=1763464365.6893399) | [Slides](https://neurips.cc/virtual/2025/125163)**
 
 *Accepted at NeurIPS 2025 Workshop on Reliable ML from Unreliable Data*
 
