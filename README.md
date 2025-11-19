@@ -7,7 +7,7 @@
 [![PyTorch](https://img.shields.io/badge/PyTorch-1.12+-ee4c2c.svg)](https://pytorch.org/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.8+-ff6f00.svg)](https://tensorflow.org/)
 
-**[Paper](https://arxiv.org/abs/2505.02360) | [Poster](link) | [Slides](link)**
+**[Paper](https://openreview.net/pdf?id=isvrCnlBZb) | [Poster](https://neurips.cc/virtual/2025/125163) | [Slides](https://neurips.cc/virtual/2025/125163)**
 
 *Accepted at NeurIPS 2025 Workshop on Reliable ML from Unreliable Data*
 
